@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/poi_server.iml" filepath="$PROJECT_DIR$/.idea/poi_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../urllib1/.idea/urllib.iml" filepath="$PROJECT_DIR$/../urllib1/.idea/urllib.iml" />
+    </modules>
+  </component>
+</project>
